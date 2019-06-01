@@ -1,0 +1,147 @@
+@media only screen and (max-width:768px) {
+    header .navbar-brand {
+        padding-left: 1rem;
+    }
+    .section-1 .row .col-md-6 .panel {
+        position: initial;
+        width: initial;
+        height: initial;
+    }
+    .section-2 .cover {
+        background-position: -25vmin -10vmin;
+    }
+    .numbers .rect {
+        width: 10rem;
+        height: 8rem;
+    }
+    .numbers .rect h1 {
+        padding-top: 1rem;
+        font-size: 2rem;
+    }
+    .section-3 {
+        height: inherit;
+        padding: 10vmin!important;
+    }
+    .section-3 .row h1 {
+        padding: 6vmin 4vmin;
+    }
+    .section-3 .row .col-md-6 {
+        text-align: center!important;
+    }
+    .section-3 .desktop i {
+        font-size: 8vmin;
+    }
+    .section-4 .carousel-item {
+        padding-left: 0.6rem;
+    }
+    .section-4 .team {
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+    }
+    .section-4 .carousel-inner {
+        width: 24rem;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .section-4 .carousel-inner {
+        margin-left: -14vmin;
+    }
+}
+
+@media only screen and (max-width:425px) {
+    footer .row .col-md-2 {
+        margin-top: 8vmin;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .section-4 .card {
+        width: 18rem;
+    }
+    .section-4 .carousel-inner {
+        margin-left: -14vmin;
+    }
+}
+
+/* For iPad */
+
+@media only screen and (width:1024px) and (height:768px) {
+    header div.container.text-center div div.col-md-7.col-sm-12.text-white {
+        padding-bottom: 15vmin;
+    }
+    .section-3 .row .col-md-12 h1 {
+        padding-left: 2vmin;
+        padding-right: 2vmin;
+    }
+    .section-3 {
+        height: 80vmin;
+    }
+    .section-4 .team {
+        padding-top: 1vmin;
+    }
+    .section-4 .carousel-inner {
+        margin-left: -8vmin;
+        width: 24rem;
+    }
+    .section-4 .card {
+        width: 18rem;
+    }
+    footer {
+        padding-left: 8vmin;
+        padding-right: 8vmin;
+    }
+    footer .column i+i {
+        padding: 0 0.2em;
+    }
+}
+
+/* For iPad Pro*/
+
+@media only screen and (width:1024px) and (height:1366px) {
+    header div.container.text-center div div.col-md-7.col-sm-12.text-white {
+        padding-bottom: 15vmin;
+    }
+    .section-3 .row .col-md-12 h1 {
+        padding-left: 2vmin;
+        padding-right: 2vmin;
+    }
+    .section-3 {
+        height: 80vmin;
+    }
+    .section-4 .team {
+        padding-top: 1vmin;
+    }
+    .section-4 .carousel-inner {
+        margin-left: -7vmin;
+        width: 24rem;
+    }
+    .section-4 .card {
+        width: 18rem;
+    }
+    footer {
+        padding-left: 8vmin;
+        padding-right: 8vmin;
+    }
+    footer .column i+i {
+        padding: 0 0.2em;
+    }
+}
+
+/* For iPphone X*/
+
+@media only screen and (width:375px) and (height:812px) {
+    .section-3 .row .col-md-12 p {
+        font-size: 3.5vmin;
+        padding-left: 4em;
+        padding-right: 4em;
+    }
+    .section-3 .platform .col-md-6 div div div p {
+        font-size: 2.7vmin;
+    }
+    .section-4 .carousel-inner {
+        margin-left: -3.5vmin;
+        width: 24rem;
+    }
+}
