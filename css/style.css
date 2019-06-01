@@ -150,7 +150,7 @@ header .container .col-md-7 button {
     width: 100%;
     height: 55vmin;
     /* TODO: Maybe you need to change this to /... */
-    background: url('assets/pexels-photo-452738.jpeg');
+    background: url('../assets/pexels-photo-452738.jpeg');
     background-position: -24rem -19rem;
     background-size: 150%;
     position: relative;
