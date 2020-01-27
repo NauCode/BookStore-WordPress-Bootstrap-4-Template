@@ -1,4 +1,4 @@
-﻿﻿# Book Store Bootstrap 4 Template
+﻿# Book Store Bootstrap 4 Template
 
 ## What is this?
 This is a Bootstrap 4 template. This was done following [this guide](https://www.youtube.com/watch?v=zhllkjYYUVE) and lately improved fixing some errors and making it more compatible with some mobile devices (so we could call it mobile responsive, but maybe we would need to do some extra tests) and finally transforming it into a WordPress theme.
